@@ -23,4 +23,4 @@ print(name) # True
 
 name2=''
 name2=bool(name2)
-print(name2)
+print(name2) # false
